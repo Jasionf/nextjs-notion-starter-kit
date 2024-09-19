@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Chaodi Tang Blog World',
-  domain: 'chaodit.com',
-  author: 'Chaodi Tang',
+  name: 'Jason work space',
+  domain: 'Jason.com',
+  author: 'Jason',
 
   // open graph metadata (optional)
   description: 'My Blogs.',
